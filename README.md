@@ -1,7 +1,7 @@
 
 ### Boas vindas ao meu perfil
 
-Meu nome é Marcelo Paludetto
+Meu nome é Miriele 
 
 - Estou estudando na Alura(https://www.alura.com.br)
 - JavaScript(em desenvolvimento)
